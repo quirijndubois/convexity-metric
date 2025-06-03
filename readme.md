@@ -2,7 +2,7 @@ A small python project attempting to define and calculate a metric for convexity
 
 # Visualization dependency
 
-This project includes some visualizations, but this requires a custom local Phanim main branch install of [phanim](https://github.com/quirijndubois/phanim). The [phanim](https://github.com/quirijndubois/phanim) pypi release is too old. Follow the install instructions [here](https://github.com/quirijndubois/phanim).
+This project includes some visualizations, but this requires a custom main branch install of [Phanim](https://github.com/quirijndubois/phanim). The [Phanim](https://github.com/quirijndubois/phanim) pypi release is too old. Follow the install instructions [here](https://github.com/quirijndubois/phanim).
 
 # usage
 
