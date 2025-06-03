@@ -1,6 +1,6 @@
 A small python project attempting to define and calcualte some metric for convexity of polygons. Includes visualization demos, using phanim library. 
 
-*Custom local Phanim main branch install is required. The Phanim pypi release is too old.*
+*Custom local Phanim main branch install is required. The Phanim pypi release is too old. See [github.com/quirijndubois/phanim](Phanim)*
 
 # usage
 
