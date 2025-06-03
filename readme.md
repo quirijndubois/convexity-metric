@@ -1,6 +1,8 @@
-A small python project attempting to define and calcualte some metric for convexity of polygons. Includes visualization demos, using phanim library. 
+A small python project attempting to define and calculate a metric for convexity of polygons. 
 
-*Custom local Phanim main branch install is required. The Phanim pypi release is too old. See [phanim](https://github.com/quirijndubois/phanim)*
+# Visualization dependency
+
+This project includes some visualizations, but this requires a custom local Phanim main branch install of [phanim](https://github.com/quirijndubois/phanim). The [phanim](https://github.com/quirijndubois/phanim) pypi release is too old. Follow the install instructions [here](https://github.com/quirijndubois/phanim).
 
 # usage
 
